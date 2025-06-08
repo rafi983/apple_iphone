@@ -10,7 +10,6 @@
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Snippets](#snippets)
 6. 🔗 [Links](#links)
-7. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -54,7 +53,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/rafi93/apple_iphone.git
+git clone https://github.com/rafi983/apple_iphone.git
 cd apple_iphone
 ```
 
@@ -740,7 +739,6 @@ canvas {
 
 </details>
 
-## <a name="links">🔗 Links</a>
 
 Public Assets used in the project can be found [here](https://drive.google.com/file/d/1syHiNxSIGXVApaIozdrLXM2x5dPhvaJL/view?usp=sharing)
 
